@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LoProTy</string>
+    <string name="categories">Product</string>
+    <string name="profile">Profile</string>
+    <string name="faq">Contact</string>
+    <string name="settings">Settings</string>
+    <string name="Makanan">Makanan</string>
+    <string name="Minuman">Minuman</string>
+    <string name="Kerajinan">Kerajinan</string>
+    <string name="frequently_asked_questions">Frequently Asked \nQuestions</string>
+    <string name="title_activity_categories">CategoriesActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="product">Lombok Product Diversity</string>
+    <string name="content_text">Detail Produk</string>
+    <string name="my_name">Muhammad Khaidar Rahman</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="name">Name</string>
+    <string name="profile_email">haidarrahmans30@gmail.com</string>
+    <string name="email">E-mail</string>
+    <string name="expiration_date_reminder">Expiration Date Reminder</string>
+    <string name="tulis">Ditulis Oleh :</string>
+    <string name="Hubungi">Hubungi</string>
+    <string name="produk_khas_lombok">Produk Khas Lombok</string>
+</resources>
